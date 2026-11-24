@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262/musengbob/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262/rank.svg)](https://make.fun/competitions/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-the-one-line-cat-joke-that-lands-a7b18262)
 [![reward](https://make.fun/badge/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262/musengbob/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262/reward.svg)](https://make.fun/competitions/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-the-one-line-cat-joke-that-lands-a7b18262)
 
-A single-line cat joke for the [make.fun bounty](https://make.fun/competitions/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262): one original, punchy line, under 200 characters, nothing else. The judge reads jokes two at a time and the funnier one survives — this one leans on the most universal cat truth of all: the cat knocks something over, then acts like *you* are the problem.
+A single-line cat joke for the [make.fun bounty](https://make.fun/bounty/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262) ([competition page](https://make.fun/competitions/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262)): one original, punchy line, under 200 characters, nothing else. The judge reads jokes two at a time and the funnier one survives — this one leans on the most universal cat truth of all: the cat knocks something over, then acts like *you* are the problem.
 
 > My cat knocked my coffee off the desk, then stared at me like I was the one who owed him an apology.
 
